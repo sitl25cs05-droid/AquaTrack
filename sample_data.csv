@@ -1,0 +1,4 @@
+timestamp,location_id,vibration_score,acoustic_score,tds_ppm,tds_change_ppm,turbidity_ntu,turbidity_change_ntu
+2026-10-27T09:00:00,zone-a,0.22,0.18,280,12,0.4,0.1
+2026-10-27T09:05:00,zone-a,0.82,0.74,295,15,0.5,0.1
+2026-10-27T09:10:00,zone-b,0.20,0.24,470,185,2.1,1.4
